@@ -1,0 +1,21 @@
+# это корневой файл настроек для всего проекта
+root = true
+
+# правила для всех файлов (*)
+[*]
+# использовать кодировку UTF-8
+charset = utf-8
+# использовать пробелы для отступов
+indent_style = space
+# размер отступа: 4 пробела
+indent_size = 4
+# тип переноса строки: LF (стандарт для Linux/macOS и Git)
+end_of_line = lf
+# удалять лишние пробелы в конце строк
+trim_trailing_whitespace = true
+# добавлять пустую строку в конец файла
+insert_final_newline = true
+
+# особые правила для файлов разметки
+[*.{yml,yaml,json,html}]
+indent_size = 2
