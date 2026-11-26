@@ -1,0 +1,156 @@
+============================================================================ 
+АУДИТ И ДИАГНОСТИКА КЛИЕНТСКОГО КОМПЬЮТЕРА
+Дата и время проверки: 26.11.2026 16:24:33
+============================================================================
+
+[1. Операционная система]
+Название: Microsoft Windows 11 Pro
+Версия: 10.0.26300
+
+[2. Процессор]
+Модель: 12th Gen Intel(R) Core(TM) i5-12450H
+
+[3. Оперативная память]
+Всего памяти: 15 ГБ
+Свободно памяти: 7 ГБ
+
+[4. Диск C]
+Общий размер: 149 ГБ
+Свободно места: 24 ГБ
+----------------------------------------------------------------------------
+
+[5. Список установленных программ]
+ - ﻿2ГИС 3.16.3.0
+ - 7-Zip 19.00 (x64)
+ - A Way Out
+ - AdGuardVPN
+ - Adobe Acrobat (64-bit)
+ - Adobe AIR
+ - Adobe Refresh Manager
+ - AIMP
+ - Brother MFL-Pro Suite DCP-1610W series
+ - Buckshot Roulette
+ - Content Warning
+ - Cry of Fear
+ - DiagnosticsHub_CollectionService
+ - Google Chrome
+ - Java 8 Update 491 (64-bit)
+ - Java Auto Updater
+ - MAX
+ - Microsoft .NET Host - 10.0.5 (x64)
+ - Microsoft .NET Host - 8.0.25 (x64)
+ - Microsoft .NET Host FX Resolver - 10.0.5 (x64)
+ - Microsoft .NET Host FX Resolver - 8.0.25 (x64)
+ - Microsoft .NET Runtime - 10.0.5 (x64)
+ - Microsoft .NET Runtime - 8.0.25 (x64)
+ - Microsoft Edge
+ - Microsoft GameInput
+ - Microsoft Teams Meeting Add-in for Microsoft Office
+ - Microsoft Update Health Tools
+ - Microsoft Visual C++ 2005 Redistributable
+ - Microsoft Visual C++ 2005 Redistributable (x64)
+ - Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+ - Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+ - Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+ - Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+ - Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+ - Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+ - Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+ - Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+ - Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+ - Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+ - Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+ - Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+ - Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+ - Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+ - Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+ - Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+ - Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211
+ - Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211
+ - Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211
+ - Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211
+ - Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211
+ - Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211
+ - Microsoft Visual Studio Installer
+ - Microsoft Visual Studio Setup Configuration
+ - Microsoft Visual Studio Setup WMI Provider
+ - Microsoft Windows Application Compatibility Fix Database
+ - Microsoft Windows Desktop Runtime - 10.0.5 (x64)
+ - Microsoft Windows Desktop Runtime - 8.0.25 (x64)
+ - Microsoft Windows Desktop Runtime 10.0.5 (x64)
+ - Notepad++ (64-bit x64)
+ - NVIDIA PhysX
+ - OBS Studio
+ - OpenAL
+ - PDF24 Creator 11.31.0
+ - PEAK
+ - Phasmophobia
+ - Portal 2
+ - PostgreSQL 14
+ - PostgreSQL 18
+ - Python 3.13.14 Core Interpreter (64-bit)
+ - Python 3.13.14 Development Libraries (64-bit)
+ - Python 3.13.14 Documentation (64-bit)
+ - Python 3.13.14 Executables (64-bit)
+ - Python 3.13.14 pip Bootstrap (64-bit)
+ - Python 3.13.14 Standard Library (64-bit)
+ - Python 3.13.14 Tcl/Tk Support (64-bit)
+ - Python 3.13.14 Test Suite (64-bit)
+ - Python Launcher
+ - qBittorrent
+ - Radmin VPN 2.1.2
+ - Realtek High Definition Audio Driver
+ - Steam
+ - TLauncher
+ - Visual Studio Community 2026 Insiders
+ - VLC media player
+ - vs_CoreEditorFonts
+ - vs_filehandler_amd64
+ - vs_filehandler_x86
+ - vs_FileTracker_Singleton
+ - vs_githubprotocolhandlermsi
+ - vs_minshellmsires
+ - vs_minshellsharedmsi
+ - vs_minshellx64msi
+ - vs_vswebprotocolselectormsi
+ - vs_vswebprotocolselectormsires
+ - War Thunder
+ - Whos Your Daddy
+ - Who's Your Daddy?
+ - WinRAR 6.00 (64-разрядная)
+ - Xbox Service
+ - Yandex (All Users)
+ - Данные 2ГИС г.Н.Новгород 01.06.2026
+ - Среда выполнения Microsoft Edge WebView2 Runtime
+----------------------------------------------------------------------------
+
+[6. РЕКОМЕНДАЦИИ ПО БАЗОВОМУ ОФИСНОМУ ПО]
+[OK] Офисный пакет: требование выполнено (найдено: Microsoft Teams Meeting Add-in for Microsoft Office)
+[OK] Архиватор: требование выполнено (найдено: 7-Zip 19.00 (x64))
+[OK] Чтение PDF: требование выполнено (найдено: Adobe Acrobat (64-bit))
+[ не обнаружен. Используется встроенный Windows Defender (рекомендуется проверить актуальность баз).
+[OK] Браузер: требование выполнено (найдено: Google Chrome)
+----------------------------------------------------------------------------
+
+[7. РЕКОМЕНДАЦИИ ПО ПРОВЕРКЕ ИЗЛИШНЕГО ПО]
+Примечание: программы ниже не относятся к базовым офисным задачам и подлежат проверке администратором.
+
+--- Группа 1: Игровое ПО ---
+  [?] К проверке: Microsoft GameInput
+  [?] К проверке: Steam
+
+--- Группа 2: Торрент-клиенты ---
+  [?] К проверке: qBittorrent
+
+--- Группа 3: Мессенджеры (уточнить использование в работе) ---
+  Программ данной группы не обнаружено.
+
+--- Группа 4: Развлечения и медиа ---
+  [?] К проверке: AIMP
+  [?] К проверке: OBS Studio
+  [?] К проверке: VLC media player
+
+============================================================================
+ИТОГИ: проверено категорий базового ПО — 5, выдано рекомендаций — 7
+Отчёт сохранён: C:\Users\Admin\OneDrive\Desktop\pc_report.txt
+============================================================================
